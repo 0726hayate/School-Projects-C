@@ -38,6 +38,6 @@ The GVDie.c file provides the implementations of the functions declared in GVDie
 The program uses a custom GVDie data type to represent a six-sided die. This allows for better abstraction and organization of the code. The custom die functions make it easy to work with dice in the game logic.
 
 # Author
-This C code was created by [Your Name]. Feel free to contact me if you have any questions or suggestions for improvement.
+This C code was created by 0726hayate. Feel free to contact me if you have any questions or suggestions for improvement.
 
 Enjoy the game! 🎲
